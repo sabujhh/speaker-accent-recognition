@@ -1,4 +1,4 @@
-# Speaker's Accent Recognition Using Machine Learning Algorthms
+# Speaker's Accent Recognition Using Machine Learning Algorithms
 
 ●	It is a multiclass classification problem
 
